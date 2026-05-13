@@ -1,4 +1,4 @@
-# 
+# vip Preset for Gimp for macOS - grid systems and real-time preview offers the most advanced Gimp for macOS preset, with grid systems and real-time preview. Ideal for professional
 
 
 
